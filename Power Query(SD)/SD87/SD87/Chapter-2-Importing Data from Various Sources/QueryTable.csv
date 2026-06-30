@@ -1,0 +1,541 @@
+﻿Customer,Year,Quarter,Month,Day,Sales Rep,Sum of Amount,Sum of Profit,Region
+Boston Consultants,2022,Qtr 1,February,25,Varsha,13900,3020,East
+Boston Consultants,2022,Qtr 1,March,28,Mark,12350,5420,South
+Boston Consultants,2022,Qtr 2,April,18,James,12700,4720,West
+Boston Consultants,2022,Qtr 2,June,2,Anshika,13450,4820,South
+Boston Consultants,2022,Qtr 2,June,16,Charley,14200,5720,South
+Boston Consultants,2022,Qtr 3,August,10,Veronica,11400,5120,North
+Boston Consultants,2022,Qtr 3,August,25,Ramesh,11000,4580,West
+Boston Consultants,2022,Qtr 3,September,6,Anshika,11450,4100,North
+Boston Consultants,2022,Qtr 3,September,8,Anshika,11300,3780,West
+Boston Consultants,2022,Qtr 4,October,10,James,12800,3320,West
+Boston Consultants,2022,Qtr 4,November,17,Charley,10300,3500,East
+Boston Consultants,2022,Qtr 4,December,3,Bruce,11750,3180,North
+Boston Consultants,2022,Qtr 4,December,3,Veronica,11300,2020,West
+Boston Consultants,2022,Qtr 4,December,18,Rajat,14750,2300,North
+Boston Consultants,2023,Qtr 1,January,14,Vector,10700,4540,South
+Boston Consultants,2023,Qtr 1,February,8,Ramesh,12800,2940,East
+Boston Consultants,2023,Qtr 1,March,9,Bruce,14400,4660,South
+Boston Consultants,2023,Qtr 2,June,6,Anshika,11900,4700,West
+Boston Consultants,2023,Qtr 3,August,2,Jaspreet,10550,2100,East
+Boston Consultants,2023,Qtr 3,September,19,Swati,12350,3620,South
+Boston Consultants,2023,Qtr 4,October,16,Swati,13150,3280,South
+Boston Consultants,2024,Qtr 1,January,5,Roma,11850,4360,West
+Boston Consultants,2024,Qtr 1,February,14,Veronica,12050,5640,South
+Boston Consultants,2024,Qtr 3,August,11,Charley,11250,5500,North
+Boston Consultants,2024,Qtr 3,September,11,Varsha,13450,3180,South
+Boston Consultants,2024,Qtr 3,September,28,Charley,12550,2180,East
+Boston Consultants,2024,Qtr 4,November,24,Swati,13400,3340,North
+Boston Consultants,2024,Qtr 4,December,15,Veronica,12350,2620,North
+Boston Consultants,2025,Qtr 1,January,24,Varsha,13900,3020,East
+Boston Consultants,2025,Qtr 1,February,7,Mark,12350,5420,South
+Boston Consultants,2025,Qtr 1,February,13,James,12700,4720,West
+Boston Consultants,2025,Qtr 1,March,2,Anshika,13450,4820,South
+Boston Consultants,2025,Qtr 1,March,8,Charley,14200,5720,South
+Boston Consultants,2025,Qtr 1,March,21,Veronica,11400,5120,North
+Boston Consultants,2025,Qtr 1,March,29,Ramesh,11000,4580,West
+Boston Consultants,2025,Qtr 2,April,3,Anshika,11450,4100,North
+Boston Consultants,2025,Qtr 2,April,6,Anshika,11300,3780,West
+Boston Consultants,2025,Qtr 2,April,22,James,12800,3320,West
+Boston Consultants,2025,Qtr 2,May,9,Charley,10300,3500,East
+Boston Consultants,2025,Qtr 2,May,15,Veronica,11300,2020,West
+Boston Consultants,2025,Qtr 2,May,16,Bruce,11750,3180,North
+Boston Consultants,2025,Qtr 2,May,19,Rajat,14750,2300,North
+Data Tronics,2022,Qtr 1,January,21,Veronica,13500,3660,North
+Data Tronics,2022,Qtr 1,February,14,Rajat,11450,3800,East
+Data Tronics,2022,Qtr 1,March,22,Veronica,10650,5720,West
+Data Tronics,2022,Qtr 2,April,14,Abhay,11400,5680,East
+Data Tronics,2022,Qtr 2,June,22,Veronica,12950,4700,North
+Data Tronics,2022,Qtr 3,September,2,Jaspreet,13000,5280,South
+Data Tronics,2022,Qtr 4,October,27,Anshika,12250,4760,South
+Data Tronics,2022,Qtr 4,November,16,Bruce,14050,3560,East
+Data Tronics,2022,Qtr 4,December,30,Varsha,13300,3460,East
+Data Tronics,2023,Qtr 1,January,6,Roma,15000,5280,West
+Data Tronics,2023,Qtr 1,February,5,Veronica,12550,4640,East
+Data Tronics,2023,Qtr 1,February,13,Mark,13750,3160,South
+Data Tronics,2023,Qtr 1,March,3,James,11800,4120,South
+Data Tronics,2023,Qtr 2,June,23,Bruce,13450,2600,West
+Data Tronics,2023,Qtr 3,July,8,Veronica,14600,5280,East
+Data Tronics,2023,Qtr 3,August,21,Ramesh,10600,4680,East
+Data Tronics,2023,Qtr 4,November,4,Ramesh,12150,5080,West
+Data Tronics,2023,Qtr 4,November,20,Mark,11100,3360,West
+Data Tronics,2023,Qtr 4,November,24,Bruce,10050,2720,South
+Data Tronics,2023,Qtr 4,December,8,Mark,15000,2120,East
+Data Tronics,2023,Qtr 4,December,11,Jaspreet,13000,5100,South
+Data Tronics,2024,Qtr 1,January,18,Mark,10150,2400,West
+Data Tronics,2024,Qtr 1,January,29,D'Souza,11000,3580,South
+Data Tronics,2024,Qtr 1,March,14,Veronica,11150,4000,North
+Data Tronics,2024,Qtr 1,March,20,James,11800,2540,East
+Data Tronics,2024,Qtr 2,May,31,Swati,12400,2220,South
+Data Tronics,2024,Qtr 3,July,22,Veronica,11050,2360,East
+Data Tronics,2024,Qtr 3,August,7,Charley,13800,4880,North
+Data Tronics,2024,Qtr 4,December,11,Bruce,10350,2660,North
+Data Tronics,2024,Qtr 4,December,18,Jaspreet,14150,2140,East
+Data Tronics,2025,Qtr 1,January,7,Veronica,13500,3660,North
+Data Tronics,2025,Qtr 1,January,19,Rajat,11450,3800,East
+Data Tronics,2025,Qtr 1,February,3,Veronica,10650,5720,West
+Data Tronics,2025,Qtr 1,February,11,Abhay,11400,5680,East
+Data Tronics,2025,Qtr 1,March,5,Veronica,12950,4700,North
+Data Tronics,2025,Qtr 1,March,31,Jaspreet,13000,5280,South
+Data Tronics,2025,Qtr 2,April,30,Anshika,12250,4760,South
+Data Tronics,2025,Qtr 2,May,8,Bruce,14050,3560,East
+Data Tronics,2025,Qtr 2,May,23,Varsha,13300,3460,East
+Good Fly,2022,Qtr 1,February,6,Varsha,11050,3740,North
+Good Fly,2022,Qtr 1,February,22,Abhay,12550,2360,North
+Good Fly,2022,Qtr 1,March,5,James,14200,2460,North
+Good Fly,2022,Qtr 1,March,28,Abhay,14150,2880,West
+Good Fly,2022,Qtr 2,May,23,Anshika,12300,4700,West
+Good Fly,2022,Qtr 3,September,22,Anshika,12900,4540,East
+Good Fly,2022,Qtr 3,September,27,Charley,11950,2280,East
+Good Fly,2022,Qtr 3,September,30,Bruce,13250,4060,South
+Good Fly,2022,Qtr 4,October,9,Abhay,14100,2100,East
+Good Fly,2022,Qtr 4,October,22,Anshika,13600,3120,East
+Good Fly,2022,Qtr 4,December,27,Charley,14850,4280,North
+Good Fly,2023,Qtr 1,January,6,Steve,14750,3200,North
+Good Fly,2023,Qtr 2,April,16,Bruce,12700,5660,West
+Good Fly,2023,Qtr 2,June,16,Rajat,10300,5420,North
+Good Fly,2023,Qtr 3,July,8,Swati,10150,3560,South
+Good Fly,2023,Qtr 4,October,9,James,11900,5500,West
+Good Fly,2023,Qtr 4,November,16,Rajat,14550,4680,South
+Good Fly,2023,Qtr 4,November,17,Swati,13150,4400,East
+Good Fly,2023,Qtr 4,November,20,Anshika,10900,2680,West
+Good Fly,2023,Qtr 4,November,25,Bruce,14550,4420,East
+Good Fly,2023,Qtr 4,November,28,Mark,12950,4440,West
+Good Fly,2023,Qtr 4,December,31,Ramesh,12250,4540,South
+Good Fly,2024,Qtr 1,February,11,Vector,11500,2160,South
+Good Fly,2024,Qtr 1,February,19,Charley,11900,4620,North
+Good Fly,2024,Qtr 1,February,19,Mark,13300,3780,North
+Good Fly,2024,Qtr 1,March,5,Jaspreet,12600,2740,East
+Good Fly,2024,Qtr 1,March,7,Mark,13600,5280,South
+Good Fly,2024,Qtr 1,March,17,Anshika,11050,4500,South
+Good Fly,2024,Qtr 2,May,29,Rajat,14650,5040,East
+Good Fly,2024,Qtr 3,July,5,Abhay,12150,3220,West
+Good Fly,2024,Qtr 3,July,9,Ramesh,10850,2100,South
+Good Fly,2024,Qtr 3,July,23,Swati,13200,2060,West
+Good Fly,2024,Qtr 3,August,12,Anshika,13000,2000,North
+Good Fly,2024,Qtr 3,August,15,Swati,11050,3240,East
+Good Fly,2024,Qtr 3,August,20,Charley,12900,5100,West
+Good Fly,2024,Qtr 3,August,27,Swati,11550,5100,East
+Good Fly,2024,Qtr 3,September,27,Ramesh,10850,2240,South
+Good Fly,2024,Qtr 4,December,27,Abhay,12000,3640,East
+Good Fly,2025,Qtr 1,January,17,Varsha,11050,3740,North
+Good Fly,2025,Qtr 1,January,23,Abhay,12550,2360,North
+Good Fly,2025,Qtr 1,January,27,James,14200,2460,North
+Good Fly,2025,Qtr 1,February,6,Abhay,14150,2880,West
+Good Fly,2025,Qtr 1,February,26,Anshika,12300,4700,West
+Good Fly,2025,Qtr 2,April,13,Anshika,12900,4540,East
+Good Fly,2025,Qtr 2,April,17,Charley,11950,2280,East
+Good Fly,2025,Qtr 2,April,18,Bruce,13250,4060,South
+Good Fly,2025,Qtr 2,April,21,Abhay,14100,2100,East
+Good Fly,2025,Qtr 2,April,28,Anshika,13600,3120,East
+Good Fly,2025,Qtr 2,May,22,Charley,14850,4280,North
+India Trotters,2022,Qtr 1,February,17,James,10800,2660,West
+India Trotters,2022,Qtr 1,March,13,Abhay,11800,5040,East
+India Trotters,2022,Qtr 1,March,22,Charley,14800,2820,North
+India Trotters,2022,Qtr 2,May,1,Bruce,12850,2880,North
+India Trotters,2022,Qtr 2,May,4,Swati,11750,4680,North
+India Trotters,2022,Qtr 2,May,22,Abhay,12550,4100,East
+India Trotters,2022,Qtr 2,June,21,Bruce,11550,3380,North
+India Trotters,2022,Qtr 2,June,28,Mark,12050,4840,West
+India Trotters,2022,Qtr 2,June,30,Jaspreet,11600,5020,North
+India Trotters,2022,Qtr 3,September,23,Abhay,14350,4760,North
+India Trotters,2022,Qtr 3,September,25,Varsha,13150,2740,South
+India Trotters,2022,Qtr 4,October,5,Rajat,10650,4580,East
+India Trotters,2022,Qtr 4,October,31,Ramesh,11850,5160,North
+India Trotters,2022,Qtr 4,November,9,Swati,10200,4600,North
+India Trotters,2022,Qtr 4,December,3,Bruce,10600,5440,South
+India Trotters,2023,Qtr 1,February,4,D'Souza,13350,2760,East
+India Trotters,2023,Qtr 1,March,18,Mark,14700,3180,East
+India Trotters,2023,Qtr 2,April,18,Varsha,11500,3640,North
+India Trotters,2023,Qtr 2,April,29,Swati,14750,5280,South
+India Trotters,2023,Qtr 2,June,11,Rajat,10950,5600,North
+India Trotters,2023,Qtr 2,June,13,James,13200,5580,East
+India Trotters,2023,Qtr 3,September,22,Anshika,10400,3540,East
+India Trotters,2023,Qtr 4,October,2,Veronica,11250,4960,West
+India Trotters,2023,Qtr 4,October,3,Anshika,14500,5460,North
+India Trotters,2023,Qtr 4,October,7,Jaspreet,11750,2040,South
+India Trotters,2023,Qtr 4,November,3,Ramesh,11200,2380,South
+India Trotters,2023,Qtr 4,December,12,Ramesh,13300,5680,West
+India Trotters,2023,Qtr 4,December,26,Charley,12300,2120,South
+India Trotters,2024,Qtr 1,January,8,Roma,10600,3880,South
+India Trotters,2024,Qtr 1,January,23,D'Souza,11050,2060,West
+India Trotters,2024,Qtr 1,January,28,Watson,10900,3380,East
+India Trotters,2024,Qtr 1,March,8,Varsha,10600,2320,North
+India Trotters,2024,Qtr 1,March,31,Ramesh,10550,2700,North
+India Trotters,2024,Qtr 2,April,10,Charley,10500,4240,South
+India Trotters,2024,Qtr 2,April,11,Ramesh,12850,5620,East
+India Trotters,2024,Qtr 2,May,22,Veronica,14500,4980,West
+India Trotters,2024,Qtr 3,July,13,Varsha,12900,4540,East
+India Trotters,2024,Qtr 3,July,29,James,13150,5740,West
+India Trotters,2024,Qtr 4,October,8,Varsha,10400,3760,East
+India Trotters,2024,Qtr 4,October,17,Veronica,10050,5640,East
+India Trotters,2024,Qtr 4,October,22,James,12900,3720,East
+India Trotters,2024,Qtr 4,December,29,Bruce,10150,4020,West
+India Trotters,2025,Qtr 1,January,21,James,10800,2660,West
+India Trotters,2025,Qtr 1,January,28,Charley,14800,2820,North
+India Trotters,2025,Qtr 1,January,29,Abhay,11800,5040,East
+India Trotters,2025,Qtr 1,February,20,Bruce,12850,2880,North
+India Trotters,2025,Qtr 1,February,21,Swati,11750,4680,North
+India Trotters,2025,Qtr 1,February,25,Abhay,12550,4100,East
+India Trotters,2025,Qtr 1,March,11,Bruce,11550,3380,North
+India Trotters,2025,Qtr 1,March,12,Mark,12050,4840,West
+India Trotters,2025,Qtr 1,March,14,Jaspreet,11600,5020,North
+India Trotters,2025,Qtr 2,April,14,Abhay,14350,4760,North
+India Trotters,2025,Qtr 2,April,16,Varsha,13150,2740,South
+India Trotters,2025,Qtr 2,April,20,Rajat,10650,4580,East
+India Trotters,2025,Qtr 2,May,2,Ramesh,11850,5160,North
+India Trotters,2025,Qtr 2,May,3,Swati,10200,4600,North
+India Trotters,2025,Qtr 2,May,14,Bruce,10600,5440,South
+Jindle Power Works,2022,Qtr 1,January,10,Roma,14700,4660,South
+Jindle Power Works,2022,Qtr 1,January,21,Vector,11200,3420,South
+Jindle Power Works,2022,Qtr 1,February,1,Steve,12250,5280,West
+Jindle Power Works,2022,Qtr 1,March,4,Bruce,12100,2300,West
+Jindle Power Works,2022,Qtr 2,April,9,Ramesh,13850,3560,East
+Jindle Power Works,2022,Qtr 3,September,16,Veronica,10400,4380,West
+Jindle Power Works,2022,Qtr 3,September,21,Anshika,12400,3040,South
+Jindle Power Works,2022,Qtr 3,September,23,Anshika,11850,5440,North
+Jindle Power Works,2022,Qtr 4,October,12,Jaspreet,11800,4220,South
+Jindle Power Works,2022,Qtr 4,October,28,Charley,10150,3400,East
+Jindle Power Works,2023,Qtr 1,February,14,Varsha,12500,5200,West
+Jindle Power Works,2023,Qtr 1,February,20,James,13050,5220,East
+Jindle Power Works,2023,Qtr 1,March,12,Ramesh,13550,4540,West
+Jindle Power Works,2023,Qtr 1,March,13,Jaspreet,13350,4160,East
+Jindle Power Works,2023,Qtr 1,March,19,Veronica,11500,2620,East
+Jindle Power Works,2023,Qtr 1,March,24,Veronica,14500,5260,South
+Jindle Power Works,2023,Qtr 2,June,12,Abhay,10250,5660,East
+Jindle Power Works,2023,Qtr 3,July,6,Mark,13650,5100,West
+Jindle Power Works,2023,Qtr 3,August,13,Jaspreet,10200,4420,East
+Jindle Power Works,2023,Qtr 3,September,17,Anshika,14300,3220,East
+Jindle Power Works,2023,Qtr 3,September,22,Charley,12300,3420,East
+Jindle Power Works,2024,Qtr 1,February,24,Varsha,13150,4080,North
+Jindle Power Works,2024,Qtr 1,March,30,Jaspreet,10600,4040,West
+Jindle Power Works,2024,Qtr 2,April,22,Ramesh,11950,2940,South
+Jindle Power Works,2024,Qtr 2,May,1,Abhay,11050,2360,North
+Jindle Power Works,2024,Qtr 3,July,12,Abhay,13700,3980,East
+Jindle Power Works,2024,Qtr 3,September,21,Ramesh,13550,2960,North
+Jindle Power Works,2024,Qtr 4,November,9,Anshika,10000,2540,North
+Jindle Power Works,2024,Qtr 4,November,29,Bruce,10100,2680,North
+Jindle Power Works,2024,Qtr 4,December,14,Charley,13650,2180,East
+Jindle Power Works,2025,Qtr 1,January,3,Roma,14700,4660,South
+Jindle Power Works,2025,Qtr 1,January,6,Vector,11200,3420,South
+Jindle Power Works,2025,Qtr 1,January,12,Steve,12250,5280,West
+Jindle Power Works,2025,Qtr 1,January,25,Bruce,12100,2300,West
+Jindle Power Works,2025,Qtr 1,February,9,Ramesh,13850,3560,East
+Jindle Power Works,2025,Qtr 2,April,9,Veronica,10400,4380,West
+Jindle Power Works,2025,Qtr 2,April,12,Anshika,12400,3040,South
+Jindle Power Works,2025,Qtr 2,April,15,Anshika,11850,5440,North
+Jindle Power Works,2025,Qtr 2,April,23,Jaspreet,11800,4220,South
+Jindle Power Works,2025,Qtr 2,May,1,Charley,10150,3400,East
+MNTL,2022,Qtr 1,January,14,Mark,13350,5600,North
+MNTL,2022,Qtr 2,April,30,Swati,12400,2620,North
+MNTL,2022,Qtr 2,June,11,Ramesh,10850,2740,North
+MNTL,2022,Qtr 3,August,6,Jaspreet,12400,2500,North
+MNTL,2022,Qtr 4,October,15,Jaspreet,12750,2860,North
+MNTL,2022,Qtr 4,November,25,Abhay,11100,3780,South
+MNTL,2023,Qtr 1,January,11,Roma,12400,2520,South
+MNTL,2023,Qtr 1,January,14,Steve,10850,2220,South
+MNTL,2023,Qtr 1,January,30,Veronica,11050,4280,South
+MNTL,2023,Qtr 1,February,9,Charley,10100,2780,West
+MNTL,2023,Qtr 1,February,16,Bruce,13500,2080,West
+MNTL,2023,Qtr 2,June,6,Abhay,12850,2720,West
+MNTL,2023,Qtr 2,June,15,Bruce,13600,4020,West
+MNTL,2023,Qtr 2,June,22,Charley,15000,3080,North
+MNTL,2023,Qtr 3,July,31,Anshika,13900,3800,West
+MNTL,2023,Qtr 3,September,23,James,11950,2120,South
+MNTL,2023,Qtr 4,October,28,Bruce,11350,4820,East
+MNTL,2023,Qtr 4,November,12,Anshika,13750,4500,West
+MNTL,2023,Qtr 4,December,31,Swati,12600,5560,North
+MNTL,2024,Qtr 1,January,24,Mark,10800,3700,North
+MNTL,2024,Qtr 1,March,16,Veronica,13800,5300,East
+MNTL,2024,Qtr 2,April,2,Varsha,13100,2060,South
+MNTL,2024,Qtr 2,April,20,Veronica,13050,3040,West
+MNTL,2024,Qtr 2,April,25,Charley,11650,3260,North
+MNTL,2024,Qtr 2,April,28,Varsha,14800,2680,North
+MNTL,2024,Qtr 2,May,16,Ramesh,10200,4980,North
+MNTL,2024,Qtr 3,July,1,Jaspreet,13550,3400,North
+MNTL,2024,Qtr 3,August,1,Anshika,14000,4000,West
+MNTL,2024,Qtr 3,August,3,James,13850,4140,East
+MNTL,2024,Qtr 3,September,11,Mark,14600,5000,West
+MNTL,2024,Qtr 3,September,21,James,10000,4180,West
+MNTL,2024,Qtr 4,November,25,Swati,14900,4640,West
+MNTL,2025,Qtr 1,January,4,Mark,13350,5600,North
+MNTL,2025,Qtr 1,February,18,Swati,12400,2620,North
+MNTL,2025,Qtr 1,March,6,Ramesh,10850,2740,North
+MNTL,2025,Qtr 1,March,19,Jaspreet,12400,2500,North
+MNTL,2025,Qtr 2,April,26,Jaspreet,12750,2860,North
+MNTL,2025,Qtr 2,May,13,Abhay,11100,3780,South
+Namint Enterprises,2022,Qtr 1,January,1,Watson,12850,5380,North
+Namint Enterprises,2022,Qtr 1,January,24,Watson,13350,3520,East
+Namint Enterprises,2022,Qtr 1,January,30,Mark,13150,2400,East
+Namint Enterprises,2022,Qtr 1,February,6,Bruce,11950,3320,South
+Namint Enterprises,2022,Qtr 1,March,16,Rajat,14700,4760,West
+Namint Enterprises,2022,Qtr 2,April,23,Rajat,12700,2340,East
+Namint Enterprises,2022,Qtr 2,April,30,Charley,12750,2840,East
+Namint Enterprises,2022,Qtr 2,May,25,James,13150,2180,East
+Namint Enterprises,2022,Qtr 2,June,3,Mark,14150,2100,South
+Namint Enterprises,2022,Qtr 2,June,4,Mark,11900,2940,West
+Namint Enterprises,2022,Qtr 3,September,22,Swati,11500,2780,East
+Namint Enterprises,2022,Qtr 4,November,11,Veronica,12100,3540,West
+Namint Enterprises,2022,Qtr 4,December,26,Swati,14500,2820,South
+Namint Enterprises,2023,Qtr 2,June,2,Mark,10450,2720,West
+Namint Enterprises,2023,Qtr 2,June,30,Ramesh,14150,3300,North
+Namint Enterprises,2023,Qtr 3,July,31,Abhay,13600,4320,South
+Namint Enterprises,2023,Qtr 3,August,9,Abhay,10000,3780,East
+Namint Enterprises,2023,Qtr 3,September,11,Rajat,11600,2060,East
+Namint Enterprises,2023,Qtr 4,October,7,Mark,13700,5700,North
+Namint Enterprises,2023,Qtr 4,December,20,Ramesh,12700,3120,West
+Namint Enterprises,2023,Qtr 4,December,28,Bruce,13600,5500,North
+Namint Enterprises,2024,Qtr 1,January,8,D'Souza,11150,4860,West
+Namint Enterprises,2024,Qtr 1,January,27,D'Souza,14350,2340,West
+Namint Enterprises,2024,Qtr 1,January,30,Steve,13050,2780,South
+Namint Enterprises,2024,Qtr 1,March,14,Rajat,12100,2940,North
+Namint Enterprises,2024,Qtr 2,April,8,Abhay,12600,2920,North
+Namint Enterprises,2024,Qtr 2,April,12,Rajat,13750,4340,North
+Namint Enterprises,2024,Qtr 2,May,3,Anshika,13050,4940,South
+Namint Enterprises,2024,Qtr 3,July,22,James,14150,3100,North
+Namint Enterprises,2024,Qtr 3,July,23,Mark,14550,2780,South
+Namint Enterprises,2024,Qtr 3,September,1,Veronica,12400,5680,West
+Namint Enterprises,2024,Qtr 4,November,1,James,14750,3620,South
+Namint Enterprises,2025,Qtr 1,January,1,Watson,12850,5380,North
+Namint Enterprises,2025,Qtr 1,January,8,Watson,13350,3520,East
+Namint Enterprises,2025,Qtr 1,January,11,Mark,13150,2400,East
+Namint Enterprises,2025,Qtr 1,January,16,Bruce,11950,3320,South
+Namint Enterprises,2025,Qtr 1,January,31,Rajat,14700,4760,West
+Namint Enterprises,2025,Qtr 1,February,14,Rajat,12700,2340,East
+Namint Enterprises,2025,Qtr 1,February,17,Charley,12750,2840,East
+Namint Enterprises,2025,Qtr 1,February,27,James,13150,2180,East
+Namint Enterprises,2025,Qtr 1,March,3,Mark,14150,2100,South
+Namint Enterprises,2025,Qtr 1,March,4,Mark,11900,2940,West
+Namint Enterprises,2025,Qtr 2,April,5,Swati,11500,2780,East
+Namint Enterprises,2025,Qtr 2,May,4,Veronica,12100,3540,West
+Namint Enterprises,2025,Qtr 2,May,21,Swati,14500,2820,South
+Shah Associates,2022,Qtr 1,February,3,Veronica,13600,3580,North
+Shah Associates,2022,Qtr 1,March,18,Abhay,12950,2800,South
+Shah Associates,2022,Qtr 2,April,16,Swati,10250,5340,East
+Shah Associates,2022,Qtr 2,June,13,Jaspreet,14300,2760,South
+Shah Associates,2022,Qtr 2,June,18,Swati,13350,4440,North
+Shah Associates,2022,Qtr 3,August,2,Abhay,14950,4060,North
+Shah Associates,2022,Qtr 3,August,23,James,12450,3980,North
+Shah Associates,2022,Qtr 3,August,23,Varsha,14450,4820,East
+Shah Associates,2022,Qtr 3,August,28,Jaspreet,15000,5380,North
+Shah Associates,2022,Qtr 4,October,14,Veronica,11200,3480,North
+Shah Associates,2022,Qtr 4,November,13,Ramesh,11050,3020,East
+Shah Associates,2022,Qtr 4,November,18,Mark,12700,2100,West
+Shah Associates,2022,Qtr 4,December,14,Varsha,14850,2640,East
+Shah Associates,2022,Qtr 4,December,26,Bruce,11350,2600,East
+Shah Associates,2023,Qtr 1,February,20,Ramesh,14250,2980,South
+Shah Associates,2023,Qtr 2,April,18,Charley,11600,2520,South
+Shah Associates,2023,Qtr 2,June,7,Rajat,10100,3380,West
+Shah Associates,2023,Qtr 3,July,27,Bruce,12800,4200,North
+Shah Associates,2023,Qtr 3,August,17,Ramesh,14100,5320,South
+Shah Associates,2023,Qtr 3,September,16,Bruce,14000,2420,North
+Shah Associates,2023,Qtr 3,September,23,James,10700,2080,East
+Shah Associates,2023,Qtr 4,November,25,Anshika,14000,2640,West
+Shah Associates,2023,Qtr 4,December,30,Abhay,13750,5500,East
+Shah Associates,2024,Qtr 1,March,15,Ramesh,12850,2720,North
+Shah Associates,2024,Qtr 1,March,26,Veronica,14950,3120,North
+Shah Associates,2024,Qtr 1,March,27,Mark,10550,3080,East
+Shah Associates,2024,Qtr 1,March,31,Anshika,13200,3760,East
+Shah Associates,2024,Qtr 2,May,13,Jaspreet,13550,5000,North
+Shah Associates,2024,Qtr 2,May,17,Charley,11450,3800,North
+Shah Associates,2024,Qtr 2,May,25,Jaspreet,12050,4300,West
+Shah Associates,2024,Qtr 3,August,16,Rajat,12650,4820,West
+Shah Associates,2024,Qtr 3,September,21,Ramesh,13600,2460,South
+Shah Associates,2024,Qtr 4,October,13,Mark,12050,4780,East
+Shah Associates,2024,Qtr 4,November,1,Abhay,12900,2740,West
+Shah Associates,2024,Qtr 4,December,9,Bruce,12650,4160,North
+Shah Associates,2025,Qtr 1,January,14,Veronica,13600,3580,North
+Shah Associates,2025,Qtr 1,February,1,Abhay,12950,2800,South
+Shah Associates,2025,Qtr 1,February,12,Swati,10250,5340,East
+Shah Associates,2025,Qtr 1,March,7,Jaspreet,14300,2760,South
+Shah Associates,2025,Qtr 1,March,9,Swati,13350,4440,North
+Shah Associates,2025,Qtr 1,March,16,Abhay,14950,4060,North
+Shah Associates,2025,Qtr 1,March,26,James,12450,3980,North
+Shah Associates,2025,Qtr 1,March,27,Varsha,14450,4820,East
+Shah Associates,2025,Qtr 1,March,30,Jaspreet,15000,5380,North
+Shah Associates,2025,Qtr 2,April,25,Veronica,11200,3480,North
+Shah Associates,2025,Qtr 2,May,7,Ramesh,11050,3020,East
+Shah Associates,2025,Qtr 2,May,10,Mark,12700,2100,West
+Shah Associates,2025,Qtr 2,May,18,Varsha,14850,2640,East
+Shah Associates,2025,Qtr 2,May,20,Bruce,11350,2600,East
+Sharma & Co,2022,Qtr 1,February,21,Anshika,12400,4980,East
+Sharma & Co,2022,Qtr 1,March,15,Abhay,15000,4240,South
+Sharma & Co,2022,Qtr 1,March,21,James,12300,2040,North
+Sharma & Co,2022,Qtr 1,March,30,Ramesh,12300,3660,South
+Sharma & Co,2022,Qtr 2,May,28,Rajat,12400,2540,South
+Sharma & Co,2022,Qtr 3,August,6,Mark,12450,5800,South
+Sharma & Co,2022,Qtr 4,October,2,Ramesh,12700,4000,South
+Sharma & Co,2022,Qtr 4,October,21,Rajat,10950,3600,West
+Sharma & Co,2022,Qtr 4,November,12,Varsha,13700,4040,East
+Sharma & Co,2022,Qtr 4,November,19,James,10400,5680,South
+Sharma & Co,2022,Qtr 4,December,12,Rajat,11400,2500,West
+Sharma & Co,2023,Qtr 1,January,1,D'Souza,12100,3640,East
+Sharma & Co,2023,Qtr 1,February,18,Mark,13400,4240,South
+Sharma & Co,2023,Qtr 2,April,10,Swati,14650,3240,East
+Sharma & Co,2023,Qtr 3,August,8,Mark,13350,2900,West
+Sharma & Co,2023,Qtr 4,October,23,Abhay,13650,5340,North
+Sharma & Co,2023,Qtr 4,October,23,Varsha,13750,5300,South
+Sharma & Co,2023,Qtr 4,November,4,Mark,12050,4880,West
+Sharma & Co,2023,Qtr 4,November,23,James,10900,2560,North
+Sharma & Co,2023,Qtr 4,November,27,Mark,10600,5540,South
+Sharma & Co,2023,Qtr 4,December,10,Abhay,13050,2360,West
+Sharma & Co,2024,Qtr 1,February,16,Ramesh,11400,2940,East
+Sharma & Co,2024,Qtr 1,March,1,Bruce,13600,4820,North
+Sharma & Co,2024,Qtr 1,March,29,Rajat,13650,3300,South
+Sharma & Co,2024,Qtr 2,April,15,James,11800,2020,East
+Sharma & Co,2024,Qtr 2,May,24,Ramesh,12300,5720,West
+Sharma & Co,2024,Qtr 3,July,10,Mark,13750,4600,South
+Sharma & Co,2024,Qtr 3,July,17,Rajat,13800,5460,East
+Sharma & Co,2024,Qtr 3,July,28,Anshika,14800,5800,North
+Sharma & Co,2024,Qtr 3,August,27,Swati,12900,4620,West
+Sharma & Co,2024,Qtr 4,November,21,Rajat,14550,3280,West
+Sharma & Co,2024,Qtr 4,December,31,Abhay,11700,4520,North
+Sharma & Co,2025,Qtr 1,January,22,Anshika,12400,4980,East
+Sharma & Co,2025,Qtr 1,January,30,Abhay,15000,4240,South
+Sharma & Co,2025,Qtr 1,February,2,James,12300,2040,North
+Sharma & Co,2025,Qtr 1,February,8,Ramesh,12300,3660,South
+Sharma & Co,2025,Qtr 1,February,28,Rajat,12400,2540,South
+Sharma & Co,2025,Qtr 1,March,18,Mark,12450,5800,South
+Sharma & Co,2025,Qtr 2,April,19,Ramesh,12700,4000,South
+Sharma & Co,2025,Qtr 2,April,27,Rajat,10950,3600,West
+Sharma & Co,2025,Qtr 2,May,6,Varsha,13700,4040,East
+Sharma & Co,2025,Qtr 2,May,11,James,10400,5680,South
+Sharma & Co,2025,Qtr 2,May,17,Rajat,11400,2500,West
+Shyam & Sharma Co,2022,Qtr 1,February,14,Mark,11500,3220,East
+Shyam & Sharma Co,2022,Qtr 1,February,17,Veronica,11050,3120,West
+Shyam & Sharma Co,2022,Qtr 2,April,29,James,14600,4720,East
+Shyam & Sharma Co,2022,Qtr 3,August,6,Ramesh,13400,3740,South
+Shyam & Sharma Co,2022,Qtr 3,August,15,Veronica,11900,5220,North
+Shyam & Sharma Co,2022,Qtr 3,August,18,Veronica,10100,3080,East
+Shyam & Sharma Co,2022,Qtr 3,August,22,Varsha,10050,4260,East
+Shyam & Sharma Co,2022,Qtr 3,August,24,Swati,14200,3380,West
+Shyam & Sharma Co,2022,Qtr 3,September,5,Veronica,14750,4180,West
+Shyam & Sharma Co,2022,Qtr 3,September,20,Veronica,10150,2700,South
+Shyam & Sharma Co,2022,Qtr 4,October,26,Varsha,14700,4560,South
+Shyam & Sharma Co,2022,Qtr 4,November,12,Charley,14450,3660,South
+Shyam & Sharma Co,2022,Qtr 4,November,24,Anshika,12450,4380,West
+Shyam & Sharma Co,2023,Qtr 1,January,12,Steve,14300,2860,West
+Shyam & Sharma Co,2023,Qtr 1,February,24,Charley,12950,3740,West
+Shyam & Sharma Co,2023,Qtr 2,April,24,Anshika,11200,4420,East
+Shyam & Sharma Co,2023,Qtr 3,July,21,Varsha,11850,4480,South
+Shyam & Sharma Co,2023,Qtr 3,August,25,Bruce,13850,5420,West
+Shyam & Sharma Co,2023,Qtr 3,August,30,Anshika,13200,4100,North
+Shyam & Sharma Co,2023,Qtr 3,September,4,Anshika,10850,5520,East
+Shyam & Sharma Co,2023,Qtr 4,October,3,James,10450,2100,West
+Shyam & Sharma Co,2023,Qtr 4,November,19,James,14950,5180,West
+Shyam & Sharma Co,2023,Qtr 4,November,23,Mark,12050,4720,South
+Shyam & Sharma Co,2023,Qtr 4,November,27,Anshika,14350,4900,North
+Shyam & Sharma Co,2023,Qtr 4,December,27,Varsha,10900,3920,East
+Shyam & Sharma Co,2024,Qtr 1,January,21,Mark,13750,3340,West
+Shyam & Sharma Co,2024,Qtr 1,February,25,James,14800,2260,West
+Shyam & Sharma Co,2024,Qtr 1,February,27,Ramesh,14350,2660,South
+Shyam & Sharma Co,2024,Qtr 2,May,24,Rajat,14700,2100,West
+Shyam & Sharma Co,2024,Qtr 3,July,9,Ramesh,14100,3820,South
+Shyam & Sharma Co,2024,Qtr 3,September,22,Abhay,14550,4160,East
+Shyam & Sharma Co,2024,Qtr 3,September,28,Abhay,10300,4040,West
+Shyam & Sharma Co,2024,Qtr 4,October,15,Charley,14550,4980,West
+Shyam & Sharma Co,2024,Qtr 4,November,27,Varsha,11500,3780,East
+Shyam & Sharma Co,2024,Qtr 4,December,9,James,12150,3840,East
+Shyam & Sharma Co,2025,Qtr 1,January,18,Mark,11500,3220,East
+Shyam & Sharma Co,2025,Qtr 1,January,20,Veronica,11050,3120,West
+Shyam & Sharma Co,2025,Qtr 1,February,16,James,14600,4720,East
+Shyam & Sharma Co,2025,Qtr 1,March,17,Ramesh,13400,3740,South
+Shyam & Sharma Co,2025,Qtr 1,March,20,Varsha,10050,4260,East
+Shyam & Sharma Co,2025,Qtr 1,March,22,Veronica,11900,5220,North
+Shyam & Sharma Co,2025,Qtr 1,March,24,Veronica,10100,3080,East
+Shyam & Sharma Co,2025,Qtr 1,March,28,Swati,14200,3380,West
+Shyam & Sharma Co,2025,Qtr 2,April,2,Veronica,14750,4180,West
+Shyam & Sharma Co,2025,Qtr 2,April,11,Veronica,10150,2700,South
+Shyam & Sharma Co,2025,Qtr 2,April,29,Varsha,14700,4560,South
+Shyam & Sharma Co,2025,Qtr 2,May,5,Charley,14450,3660,South
+Shyam & Sharma Co,2025,Qtr 2,May,12,Anshika,12450,4380,West
+VCC,2022,Qtr 1,January,9,D'Souza,14400,5340,East
+VCC,2022,Qtr 1,January,16,Steve,13850,4460,West
+VCC,2022,Qtr 1,January,29,Roma,14500,4180,East
+VCC,2022,Qtr 1,February,4,Ramesh,12300,2560,West
+VCC,2022,Qtr 1,March,5,Ramesh,11700,5780,East
+VCC,2022,Qtr 1,March,27,Mark,11900,3400,South
+VCC,2022,Qtr 1,March,27,Ramesh,11800,3080,South
+VCC,2022,Qtr 2,April,11,Anshika,10000,3300,South
+VCC,2022,Qtr 2,May,8,Abhay,12500,3360,West
+VCC,2022,Qtr 2,May,29,Varsha,14850,3560,West
+VCC,2022,Qtr 2,June,20,Abhay,10600,5060,West
+VCC,2022,Qtr 3,August,2,Mark,12100,4540,West
+VCC,2022,Qtr 3,August,19,Charley,10100,5700,West
+VCC,2022,Qtr 3,September,2,Ramesh,10150,2900,West
+VCC,2022,Qtr 3,September,16,Varsha,10600,2420,East
+VCC,2022,Qtr 4,October,12,Veronica,12050,2220,East
+VCC,2023,Qtr 1,January,1,Steve,10150,2200,North
+VCC,2023,Qtr 1,January,9,Veronica,13550,2180,East
+VCC,2023,Qtr 1,January,29,Veronica,12350,3980,West
+VCC,2023,Qtr 2,April,19,Abhay,11150,5320,North
+VCC,2023,Qtr 2,April,23,Anshika,14700,5680,South
+VCC,2023,Qtr 2,June,21,Bruce,10500,4700,South
+VCC,2023,Qtr 3,August,18,Anshika,13400,3580,South
+VCC,2023,Qtr 3,August,30,Varsha,10900,4960,South
+VCC,2023,Qtr 3,September,7,Bruce,11400,3500,West
+VCC,2023,Qtr 4,October,10,Abhay,11850,2460,North
+VCC,2023,Qtr 4,November,20,James,10550,5420,West
+VCC,2023,Qtr 4,November,30,Jaspreet,14650,4380,East
+VCC,2023,Qtr 4,December,20,Ramesh,14600,3020,West
+VCC,2024,Qtr 2,May,15,Rajat,10500,5640,West
+VCC,2024,Qtr 3,July,4,Swati,11000,3740,East
+VCC,2024,Qtr 3,August,16,Bruce,12300,3380,North
+VCC,2024,Qtr 4,October,16,Ramesh,10700,5800,South
+VCC,2024,Qtr 4,November,12,Varsha,11700,2840,East
+VCC,2024,Qtr 4,November,16,Mark,13400,4280,East
+VCC,2025,Qtr 1,January,2,D'Souza,14400,5340,East
+VCC,2025,Qtr 1,January,5,Steve,13850,4460,West
+VCC,2025,Qtr 1,January,10,Roma,14500,4180,East
+VCC,2025,Qtr 1,January,15,Ramesh,12300,2560,West
+VCC,2025,Qtr 1,January,26,Ramesh,11700,5780,East
+VCC,2025,Qtr 1,February,4,Mark,11900,3400,South
+VCC,2025,Qtr 1,February,5,Ramesh,11800,3080,South
+VCC,2025,Qtr 1,February,10,Anshika,10000,3300,South
+VCC,2025,Qtr 1,February,22,Abhay,12500,3360,West
+VCC,2025,Qtr 1,March,1,Varsha,14850,3560,West
+VCC,2025,Qtr 1,March,10,Abhay,10600,5060,West
+VCC,2025,Qtr 1,March,15,Mark,12100,4540,West
+VCC,2025,Qtr 1,March,25,Charley,10100,5700,West
+VCC,2025,Qtr 2,April,1,Ramesh,10150,2900,West
+VCC,2025,Qtr 2,April,10,Varsha,10600,2420,East
+VCC,2025,Qtr 2,April,24,Veronica,12050,2220,East
+White Associates,2022,Qtr 1,January,27,D'Souza,14500,3580,East
+White Associates,2022,Qtr 1,February,1,Vector,14150,5120,West
+White Associates,2022,Qtr 2,April,24,Swati,13950,2780,West
+White Associates,2022,Qtr 2,May,1,Jaspreet,14350,5100,West
+White Associates,2022,Qtr 2,May,10,Charley,11950,2360,East
+White Associates,2022,Qtr 2,May,16,Varsha,11900,5460,West
+White Associates,2022,Qtr 2,June,30,Ramesh,12750,5640,South
+White Associates,2022,Qtr 3,August,17,Abhay,13300,5540,South
+White Associates,2022,Qtr 3,September,6,Anshika,12050,2800,South
+White Associates,2022,Qtr 3,September,11,Jaspreet,12500,2800,South
+White Associates,2022,Qtr 3,September,14,Ramesh,11850,5060,South
+White Associates,2023,Qtr 1,January,26,Vector,13150,5220,East
+White Associates,2023,Qtr 1,March,24,Anshika,13450,5600,West
+White Associates,2023,Qtr 2,April,18,Varsha,10400,4260,South
+White Associates,2023,Qtr 2,June,13,Rajat,11850,3220,North
+White Associates,2023,Qtr 2,June,15,James,11900,2700,East
+White Associates,2023,Qtr 2,June,25,Rajat,14200,5240,South
+White Associates,2023,Qtr 2,June,27,Rajat,11250,5220,East
+White Associates,2023,Qtr 3,July,26,Bruce,12400,5500,South
+White Associates,2023,Qtr 3,August,23,Abhay,14600,3680,South
+White Associates,2023,Qtr 4,October,2,Mark,13450,2240,East
+White Associates,2023,Qtr 4,October,12,Anshika,14700,3940,West
+White Associates,2023,Qtr 4,December,17,Rajat,12700,2100,East
+White Associates,2024,Qtr 1,January,19,Steve,11750,3540,South
+White Associates,2024,Qtr 1,February,22,Mark,13750,2080,West
+White Associates,2024,Qtr 2,May,11,Swati,14900,2820,South
+White Associates,2024,Qtr 3,September,5,Mark,14650,4420,West
+White Associates,2024,Qtr 4,December,28,Veronica,12050,2280,South
+White Associates,2025,Qtr 1,January,9,D'Souza,14500,3580,East
+White Associates,2025,Qtr 1,January,13,Vector,14150,5120,West
+White Associates,2025,Qtr 1,February,15,Swati,13950,2780,West
+White Associates,2025,Qtr 1,February,19,Jaspreet,14350,5100,West
+White Associates,2025,Qtr 1,February,23,Charley,11950,2360,East
+White Associates,2025,Qtr 1,February,24,Varsha,11900,5460,West
+White Associates,2025,Qtr 1,March,13,Ramesh,12750,5640,South
+White Associates,2025,Qtr 1,March,23,Abhay,13300,5540,South
+White Associates,2025,Qtr 2,April,4,Anshika,12050,2800,South
+White Associates,2025,Qtr 2,April,7,Jaspreet,12500,2800,South
+White Associates,2025,Qtr 2,April,8,Ramesh,11850,5060,South

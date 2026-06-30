@@ -1,0 +1,18 @@
+Steps For Excel Dashboard
+Project 1- Ferns and Petals Analysis
+
+1}Extract Data
+2} Data Cleaning i.e. NULL VALUES , ERRORS,white spaces etc
+3}Transformation--from existing colums we can create the new columns
+4}Data Modelling - if we have multiple tables and we want fetch data from particular table we use data modelin
+5}Data Analysis using pivot table
+6}Dashboard
+
+for cleaning and transformation we are using PQE----->Extract ,Transform ,Load
+for data modeling we will use power pivot 
+for analysis e will be using pivot table 
+for databoard we will be using charts
+last step excutive summary
+
+40:30=correlation new concept
+=formula
